@@ -61,7 +61,9 @@ export default function App() {
         'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/8-Bit%20Comparator%20Block%20Library.json',
         'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/Two%20Comp%20Driver%20Block%20Library.json',
         'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/Logic%20Chip%20Block%20Library.json',
-        'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/4-Bit%20Add%20Sub%20Block%20Library.json'
+        'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/4-Bit%20Add%20Sub%20Block%20Library.json',
+        'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/Aritmethic%20Unit%20%20Block%20Library.json',
+        'https://raw.githubusercontent.com/ravendano014/logicgateslablibrary/refs/heads/main/Zero%20Flag%20Block%20Library.json'
       ];
 
       try {
