@@ -1,0 +1,5 @@
+{
+  "name": "Logic Gates Lab AI V2.02",
+  "description": "An interactive digital logic simulator with support for 7400/4000 series ICs, custom blocks, component rotation, and complex circuit examples like the TD-7000 Radio Receiver.",
+  "requestFramePermissions": []
+}
